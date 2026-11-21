@@ -1,0 +1,6 @@
+beautifulsoup4
+jdatetime
+openpyxl
+requests
+# Optional for --fetcher selenium:
+# selenium
